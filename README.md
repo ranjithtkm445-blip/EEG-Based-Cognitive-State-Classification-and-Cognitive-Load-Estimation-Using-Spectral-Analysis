@@ -1,0 +1,2 @@
+# EEG-Based-Cognitive-State-Classification-and-Cognitive-Load-Estimation-Using-Spectral-Analysis
+Built an end-to-end EEG pipeline on PhysioNet EEGMMIDB (29 subjects, 5,346 epochs) using θ/α/β band power features and GradientBoosting to classify brain state (Relaxed/Focused) and cognitive load (Low/High) with 76.7% CV accuracy. Deployed on Hugging Face with biological insight engine and PDF reports.
